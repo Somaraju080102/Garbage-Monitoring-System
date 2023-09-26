@@ -1,0 +1,16 @@
+{
+  "name": "garbage",
+  "version": "1.0.0",
+  "description": "Web Connecting Audino data",
+  "dependencies": {
+    "serialport": "^11.0.0",
+    "socket.io": "^4.6.0",
+    "socket.io-client": "^4.6.2"
+  },
+  "main": "GarbageMonitoring/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Somaraju",
+  "license": "ISC"
+}
